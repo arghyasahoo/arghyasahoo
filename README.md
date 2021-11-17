@@ -1,4 +1,4 @@
-![Banner](https://github.com/arghyasahoo/arghyasahoo/assets/img/git_banner.jpg)
+![Banner](https://github.com/arghyasahoo/arghyasahoo/blob/master/assets/img/git_banner.jpg)
 <br />
 <br />
 [![Arghya's GitHub stats](https://github-readme-stats.vercel.app/api?username=arghyasahoo&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
