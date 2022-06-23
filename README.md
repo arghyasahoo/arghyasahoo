@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=I+am+Arghya;Welcome+to+my+GitHub)](https://git.io/typing-svg)
 
-![Banner](https://github.com/arghyasahoo/arghyasahoo/blob/master/assets/img/github-header-image.png)
+![Banner](https://github.com/arghyasahoo/arghyasahoo/blob/master/assets/img/git-banner.gif)
 
 #### I speak
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
