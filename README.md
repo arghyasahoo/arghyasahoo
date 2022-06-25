@@ -36,5 +36,3 @@
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=arghyasahoo&theme=dark&hide_border=false)
 ![Arghya's GitHub stats](https://github-readme-stats.vercel.app/api?username=arghyasahoo&theme=github_dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arghyasahoo&theme=github_dark&layout=compact)
-![trophy](https://github-profile-trophy.vercel.app/?username=arghyasahoo&theme=onedark)
-
